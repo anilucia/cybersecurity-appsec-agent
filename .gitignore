@@ -1,0 +1,21 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos locais do harness
+.claude/settings.local.json
+.antigravity/
+*.local
+
+# Logs e temporários
+*.log
+.tmp/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.env
+.env.*
+!.env.example
